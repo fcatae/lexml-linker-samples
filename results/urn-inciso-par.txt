@@ -1,0 +1,2 @@
+urn:lex:br:federal:lei:2012-10-23;14243!cpt_inc1
+urn:lex:br:federal:lei:2012-10-25;15223!par2_inc51
